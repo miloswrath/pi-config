@@ -1,0 +1,9 @@
+{
+  "lastChangelogVersion": "0.66.1",
+  "defaultProvider": "openai-codex",
+  "defaultModel": "gpt-5.3-codex",
+  "defaultThinkingLevel": "medium",
+  "theme": "dark",
+  "quietStartup": true,
+  "enableInstallTelemetry": false
+}
