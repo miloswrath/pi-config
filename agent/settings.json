@@ -1,9 +1,13 @@
 {
-  "lastChangelogVersion": "0.66.1",
+  "lastChangelogVersion": "0.70.5",
   "defaultProvider": "openai-codex",
-  "defaultModel": "gpt-5.3-codex",
-  "defaultThinkingLevel": "medium",
-  "theme": "dark",
+  "defaultModel": "gpt-5.5",
+  "defaultThinkingLevel": "high",
+  "theme": "ansi-dark",
   "quietStartup": true,
-  "enableInstallTelemetry": false
+  "enableInstallTelemetry": false,
+  "collapseChangelog": true,
+  "packages": [
+    "git:github.com/leblancfg/pi-ansi-themes"
+  ]
 }
